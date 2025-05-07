@@ -56,7 +56,8 @@ npm start
 
 | Desktop View                                 | Mobile View                                |
 | -------------------------------------------- | ------------------------------------------ |
-| ![Desktop]() | ![Mobile]() |
+| ![Desktop](https://github.com/user-attachments/assets/51c9b902-8c5c-405c-be12-941d2f09143f) | ![Mobile]() |
+
 
 # 💬 Connect with Me
 LinkedIn: https://www.linkedin.com/in/krishanugharami/
