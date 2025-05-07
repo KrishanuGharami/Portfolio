@@ -19,6 +19,6 @@ Frontend: HTML5, CSS3, JavaScript
 
 Frameworks: React.js
 
-Styling: CSS Modules, Styled Components
+Styling: CSS Modules, Styled Components, TypeScript
 
 Hosting: Vercel
