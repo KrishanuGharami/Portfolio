@@ -114,7 +114,7 @@ const Hero = () => {
             <div className="w-64 h-64 sm:w-80 sm:h-80 relative">
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary-500/20 to-primary-600/20 animate-pulse"></div>
               <img 
-                src="main.jpg"
+                src="https://media.licdn.com/dms/image/v2/D4D03AQGKiOrx3ds_QA/profile-displayphoto-shrink_200_200/B4DZRgABjYHkAY-/0/1736777407698?e=2147483647&v=beta&t=W90oWehVaRkq0SwGAuYHp4jZb4x3gwec78Wk1WWDY1g"
                 alt="Profile" 
                 className="w-full h-full object-cover rounded-full border-4 border-primary-500/30 p-1"
               />
