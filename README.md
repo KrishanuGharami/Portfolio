@@ -22,3 +22,16 @@ Frameworks: React.js
 Styling: CSS Modules, Styled Components, TypeScript
 
 Hosting: Vercel
+
+# 📂 Features
+Responsive Design: Optimized for both desktop and mobile views.
+
+Interactive UI: Engaging animations and transitions.
+
+Project Showcase: Detailed sections for each project with descriptions and links.
+
+Contact Form: Reach out to me directly through the integrated contact form.
+
+# 🧪 Setup & Installation
+To run this project locally:
+1. Clone the repository:
