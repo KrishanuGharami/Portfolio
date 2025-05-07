@@ -61,6 +61,6 @@ npm start
 # 💬 Connect with Me
 LinkedIn: https://www.linkedin.com/in/krishanugharami/
 
-GitHub: github.com/krishanu-gharam
+GitHub: https://github.com/KrishanuGharami
 
-Email: krishanu@example.com
+Email: 24krishanugharami@gmail.com
