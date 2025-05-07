@@ -34,4 +34,5 @@ Contact Form: Reach out to me directly through the integrated contact form.
 
 # 🧪 Setup & Installation
 To run this project locally:
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/KrishanuGharami/portfolio.git
+
