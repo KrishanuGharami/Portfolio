@@ -38,4 +38,16 @@ To run this project locally:
 ```bash
 git clone https://github.com/KrishanuGharami/portfolio.git
 ```
-
+2. Navigate into the project directory:
+```bash
+cd portfolio
+```
+3. Install dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm start
+```
+5. Open your browser and visit http://localhost:3000 to view the portfolio.
