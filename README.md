@@ -56,7 +56,7 @@ npm start
 
 | Desktop View                                 | Mobile View                                |
 | -------------------------------------------- | ------------------------------------------ |
-| ![Desktop](https://github.com/user-attachments/assets/51c9b902-8c5c-405c-be12-941d2f09143f) | ![Mobile]() |
+| ![Desktop](https://github.com/user-attachments/assets/51c9b902-8c5c-405c-be12-941d2f09143f) | ![Mobile](https://github.com/user-attachments/assets/6e635292-b9e8-4712-9aa1-d74d4f6a2402) |
 
 
 # 💬 Connect with Me
