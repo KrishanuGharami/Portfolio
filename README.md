@@ -57,3 +57,10 @@ npm start
 | Desktop View                                 | Mobile View                                |
 | -------------------------------------------- | ------------------------------------------ |
 | ![Desktop]() | ![Mobile]() |
+
+# 💬 Connect with Me
+LinkedIn: https://www.linkedin.com/in/krishanugharami/
+
+GitHub: github.com/krishanu-gharam
+
+Email: krishanu@example.com
